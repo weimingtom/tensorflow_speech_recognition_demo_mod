@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/aistudio/tensorflow_speech_recognition_demo-master/tflearn.lstm.model"
+all_model_checkpoint_paths: "/home/aistudio/tensorflow_speech_recognition_demo-master/tflearn.lstm.model"
